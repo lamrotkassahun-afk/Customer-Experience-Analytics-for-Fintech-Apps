@@ -1,0 +1,10 @@
+google-play-scraper
+pandas
+numpy
+tqdm # For progress bars (optional but helpful)
+google-play-scraper
+pandas
+numpy
+tqdm
+transformers
+torch
